@@ -1,8 +1,6 @@
 # Mini Proyecto de Análisis de Datos: Ventas Minoristas (2019–2024)
 
-**Autor:** Marianela Pollini Alzueta 
-**Curso:** Herramientas Básicas para el Análisis de Datos  
-**Año:** 2026  
+Marianela Pollini Alzueta - Herramientas Básicas para el Análisis de Datos  2026
 
 ---
 
