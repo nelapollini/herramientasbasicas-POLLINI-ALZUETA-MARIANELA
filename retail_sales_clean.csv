@@ -1,7 +1,0 @@
-transaction_id,date,category,channel,units_sold,unit_price,total_revenue,cost,profit
-1001,2023-01-15,Electrónica,Online,2,150.0,300.0,200.0,100.0
-1002,2023-01-16,Ropa,Tienda,1,50.0,50.0,25.0,25.0
-1003,2023-01-18,Hogar,Online,3,80.0,240.0,180.0,60.0
-1004,2023-02-01,Electrónica,Tienda,1,1200.0,1200.0,900.0,300.0
-1005,2023-02-10,Ropa,Online,4,30.0,120.0,60.0,60.0
-1006,2023-02-10,Ropa,Online,4,30.0,120.0,60.0,60.0
